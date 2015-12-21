@@ -1,4 +1,4 @@
-# Telephone Directory Versione Web Application
+# Telephone Directory WebApp Edition
 
 You are to build a web application that provides a simple telephone directory.
 Technicalities
